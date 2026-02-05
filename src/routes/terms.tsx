@@ -1,4 +1,4 @@
-import "../styles/home.css"
+import "../styles/routes/home.css"
 
 function Terms() {
     return (
